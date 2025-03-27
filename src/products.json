@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Garlic",
+    "amt": "299",
+    "pic": "images/apple.png"
+  },
+  {
+    "id": 2,
+    "name": "Peach",
+    "amt": "65",
+    "pic": "images/fruit.jpeg"
+  },
+  {
+    "id": 3,
+    "name": "Beetroot",
+    "amt": "59",
+    "pic": "images/beetroot.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Avacado",
+    "amt": "289",
+    "pic": "images/avacado.jpeg"
+  },
+  {
+    "id": 5,
+    "name": "Brocolli",
+    "amt": "279",
+    "pic": "images/brocolli.jpeg"
+  },
+  {
+    "id": 6,
+    "name": "Almond",
+    "amt": "29",
+    "pic": "images/veg.png"
+  },
+  {
+    "id": 7,
+    "name": "Banana",
+    "amt": "99",
+    "pic": "images/banana.jpeg"
+  },
+  {
+    "id": 8,
+    "name": "Capscium ",
+    "amt": "89",
+    "pic": "images/images.jpeg"
+  },
+  {
+    "id": 9,
+    "name": " Carrot",
+    "amt": "57",
+    "pic": "images/carrot.jpeg"
+  },
+  {
+    "id": 10,
+    "name": " Caluliflower",
+    "amt": "30",
+    "pic": "images/imgg.jpeg"
+  },
+  {
+    "id": 11,
+    "name": "Orange ",
+    "amt": "85",
+    "pic": "images/orange.jpeg"
+  },
+  {
+    "id": 12,
+    "name": "Strawberry ",
+    "amt": "230",
+    "pic": "images/starwberry.jpeg"
+  },
+  {
+    "id": 13,
+    "name": "Tomato ",
+    "amt": "50",
+    "pic": "images/do.jpeg"
+  },
+  {
+    "id": 14,
+    "name": "Pumkin ",
+    "amt": "40",
+    "pic": "images/de.jpeg"
+  }
+]
